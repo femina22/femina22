@@ -7,10 +7,16 @@
 
 🚀 Here's a glimpse into my tech universe:
 
-🛠️ I'm currently using Selenium, Katalon Studio, Groovy, Jenkins, Docker, Bitbucket
-💡 I'm always on the lookout for new automation techniques
-🤝 I'm Open to collaboration on Cypress, Selenium and Playwright projects.
+- 🛠️ I'm currently using **Selenium, Katalon Studio, Groovy, Jenkins, Docker, Bitbucket**
+- 💡 I'm always exploring **new automation techniques** to level up my testing game
+- 🤝 I'm open to collaboration on **Cypress, Selenium and Playwright projects**
+- 📧 You can reach me at **feminajadav@gmail.com**
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/femina-jadav-b12544108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@femina-jadav" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
