@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Femina Jadav</h1>
-<h3 align="center">Automation Test Engineer</h3>
+<h3 align="center">A dedicated Software QA Engineer based in India, with a passion for ensuring seamless software experiences. Currently, I'm contributing my skills and expertise with Software Development company , where I'm all about crafting efficient test automation frameworks and optimizing CI/CD pipelines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=femina22&label=Profile%20views&color=0e75b6&style=flat" alt="femina22" /> </p>
 
