@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=femina22" alt="femina22" /></a> </p>
 
+🚀 Here's a glimpse into my tech universe:
+
+🛠️ I'm currently using Selenium, Katalon Studio, Groovy, Jenkins, Docker, Bitbucket
+💡 I'm always on the lookout for new automation techniques
+🤝 I'm Open to collaboration on Cypress, Selenium and Playwright projects.
 
 
 
